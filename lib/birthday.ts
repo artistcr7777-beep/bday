@@ -18,7 +18,7 @@ export const birthday = {
   },
   letter: [
     "Somewhere between the random Discord messages, the dumb jokes, and the very necessary reality checks, you went from a random online friend to someone who feels like an older sister I never had.",
-    "You've given advice, tolerated my nonsense, roasted me when it was absolutely needed, and somehow always had the wisdom ready before I even finished explaining the problem. Honestly, a little suspicious.",
+    "And Thanks for the nitro you gave really appreciate that :3.",
     "I'm really glad we ended up in the same corner of the internet that day. Out of everyone I could've crossed paths with, I got someone who's actually been a solid presence — and that's not nothing.",
     "I hope this year brings you peace, happiness, success, ridiculously good memories, and way fewer problems than the last one. You deserve good things that don't come with a plot twist.",
     "Keep being you. The world's better with you in it.",
